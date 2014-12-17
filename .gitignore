@@ -1,0 +1,12 @@
+*.project
+*.classpath
+*.settings*
+*/bin/
+*.class
+.DS_Store
+Servers/*
+.metadata
+RemoteSystemsTempFiles/*
+lib/*
+target/
+/build/*
